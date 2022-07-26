@@ -1,6 +1,6 @@
 ![image](IFLogo.jpg)
 
-​								English | [中文]([https://github.com/Xxxxic/I-Framework/README_zh.md)
+​	<center> English | [中文](https://github.com/Xxxxic/I-Framework/blob/master/README_zh.md) </center>
 
 ## Introduction
 
