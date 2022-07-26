@@ -1,10 +1,8 @@
-<img src="D:\系统文件夹\桌面\fdfc0dbe771a48a0aa367e1f1e0eb6656d767f22_s2_n2.jpg" alt="fdfc0dbe771a48a0aa367e1f1e0eb6656d767f22_s2_n2" style="zoom: 33%;" />
+​									[English]() | 中文
 
-​									English | [中文](https://github.com/GeorgeDong32/GoodPass/blob/main/README.md)
+## 简介
 
-## Introduction
-
-一个后台管理系统的框架
+一个智能后台管理系统的框架
 
 包括首页登录注册以及主界面菜单跳转切换界面的功能
 
@@ -14,19 +12,28 @@
 
 # 快速上手
 
-### Compiles and hot-reloads for development
+首先确保已经配置好node环境以及vue，在命令行运行以：
+
+### 编译加载启动
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+<h3> 运行模拟数据
+
+```
+cd到src的mock文件夹下:
+npm run mock
+```
+
+### 生产模式
 
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 检查和修复文件
 
 ```
 npm run lint
@@ -50,11 +57,11 @@ npm run lint
 │   └── main.ts             # 入口文件
 ```
 
-### Customize configuration
+### 自定义配置
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+参考 [Configuration Reference](https://cli.vuejs.org/config/).
 
-## License 
+## 许可证
 
 <Copyright©  Xxxxic(Github)>
 
