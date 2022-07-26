@@ -1,4 +1,6 @@
-​									[English]() | 中文
+![image](IFLogo.jpg)
+
+​						[English](https://github.com/Xxxxic/I-Framework/README.md) | 中文
 
 ## 简介
 
