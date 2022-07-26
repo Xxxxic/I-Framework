@@ -1,0 +1,450 @@
+{
+  "one": [
+    {
+      "name": "xixi",
+      "age": 18
+    }
+  ],
+  "register": [
+    {
+      "id": 1,
+      "name": "admin",
+      "pwd": "admin"
+    },
+    {
+      "uname": "sasdf@163.com",
+      "pwd": "a123456",
+      "id": 2
+    },
+    {
+      "uname": "123456@qq.com",
+      "pwd": "123456a",
+      "id": 3
+    },
+    {
+      "uname": "cjx@163.com",
+      "pwd": {
+        "__v_isShallow": false,
+        "__v_isRef": true,
+        "_rawValue": "9cbf8a4dcb8e30682b927f352d6559a0",
+        "_value": "9cbf8a4dcb8e30682b927f352d6559a0"
+      },
+      "id": 4
+    },
+    {
+      "uname": "cjx@163.com",
+      "pwd": "c8adc89bdbff61ddcb3d383a17f63e86",
+      "id": 5
+    },
+    {
+      "uname": "66666@163.com",
+      "pwd": "afe09c6fcdfc720e9e33e34146a5d76a",
+      "id": 6
+    }
+  ],
+  "productlist": [
+    {
+      "id": "387",
+      "name": "空调",
+      "alert": "false",
+      "location": "2-1-1"
+    },
+    {
+      "id": "389",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-1"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-2"
+    },
+    {
+      "id": "456",
+      "name": "投影仪",
+      "alert": "false",
+      "location": "1-5-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "5-1-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "true",
+      "location": "4-1-2"
+    },
+    {
+      "id": "357",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-2-2"
+    },
+    {
+      "id": "387",
+      "name": "空调",
+      "alert": "false",
+      "location": "2-1-1"
+    },
+    {
+      "id": "389",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-1"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-2"
+    },
+    {
+      "id": "456",
+      "name": "投影仪",
+      "alert": "false",
+      "location": "1-5-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "5-1-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "true",
+      "location": "4-1-2"
+    },
+    {
+      "id": "367",
+      "name": "警报器",
+      "alert": "true",
+      "location": "1-2-1"
+    },
+    {
+      "id": "357",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-2-2"
+    },
+    {
+      "id": "387",
+      "name": "空调",
+      "alert": "false",
+      "location": "2-1-1"
+    },
+    {
+      "id": "389",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-1"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-2"
+    },
+    {
+      "id": "456",
+      "name": "投影仪",
+      "alert": "false",
+      "location": "1-5-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "5-1-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "true",
+      "location": "4-1-2"
+    },
+    {
+      "id": "367",
+      "name": "警报器",
+      "alert": "true",
+      "location": "1-2-1"
+    },
+    {
+      "id": "357",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-2-2"
+    },
+    {
+      "id": "387",
+      "name": "空调",
+      "alert": "false",
+      "location": "2-1-1"
+    },
+    {
+      "id": "389",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-1"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-2"
+    },
+    {
+      "id": "456",
+      "name": "投影仪",
+      "alert": "false",
+      "location": "1-5-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "5-1-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "true",
+      "location": "4-1-2"
+    },
+    {
+      "id": "367",
+      "name": "警报器",
+      "alert": "true",
+      "location": "1-2-1"
+    },
+    {
+      "id": "357",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-2-2"
+    },
+    {
+      "id": "387",
+      "name": "空调",
+      "alert": "false",
+      "location": "2-1-1"
+    },
+    {
+      "id": "389",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-1"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-2"
+    },
+    {
+      "id": "456",
+      "name": "投影仪",
+      "alert": "false",
+      "location": "1-5-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "5-1-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "true",
+      "location": "4-1-2"
+    },
+    {
+      "id": "367",
+      "name": "警报器",
+      "alert": "true",
+      "location": "1-2-1"
+    },
+    {
+      "id": "357",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-2-2"
+    },
+    {
+      "id": "387",
+      "name": "空调",
+      "alert": "false",
+      "location": "2-1-1"
+    },
+    {
+      "id": "389",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-1"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-2"
+    },
+    {
+      "id": "456",
+      "name": "投影仪",
+      "alert": "false",
+      "location": "1-5-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "5-1-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "true",
+      "location": "4-1-2"
+    },
+    {
+      "id": "367",
+      "name": "警报器",
+      "alert": "true",
+      "location": "1-2-1"
+    },
+    {
+      "id": "357",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-2-2"
+    },
+    {
+      "id": "387",
+      "name": "空调",
+      "alert": "false",
+      "location": "2-1-1"
+    },
+    {
+      "id": "389",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-1"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-2"
+    },
+    {
+      "id": "456",
+      "name": "投影仪",
+      "alert": "false",
+      "location": "1-5-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "5-1-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "true",
+      "location": "4-1-2"
+    },
+    {
+      "id": "367",
+      "name": "警报器",
+      "alert": "true",
+      "location": "1-2-1"
+    },
+    {
+      "id": "357",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-2-2"
+    },
+    {
+      "id": "387",
+      "name": "空调",
+      "alert": "false",
+      "location": "2-1-1"
+    },
+    {
+      "id": "389",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-1"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "1-1-2"
+    },
+    {
+      "id": "456",
+      "name": "投影仪",
+      "alert": "false",
+      "location": "1-5-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "false",
+      "location": "5-1-2"
+    },
+    {
+      "id": "387",
+      "name": "烟雾传感器",
+      "alert": "true",
+      "location": "4-1-2"
+    }
+  ],
+  "chartDataOne":[
+    {"title":"一号楼","num":1827},
+    {"title":"二号楼","num":342},
+    {"title":"三号楼","num":541},
+    {"title":"四号楼","num":1347},
+    {"title":"五号楼","num":2431},
+    {"title":"六号楼","num":876},
+    {"title":"七号楼","num":1578}
+],
+"chartDataTwo":{
+  "day":["星期1","星期2","星期3","星期4","星期5","星期6","星期7"],
+  "num":{
+      "外卖":[140, 232, 101, 264, 90, 340, 250],
+      "快递":[120, 282, 111, 234, 220, 340, 310],
+      "一般访客":[320, 132, 201, 334, 190, 130, 220],
+      "授权访客":[220, 402, 231, 134, 190, 230, 120]
+
+  }
+},
+"chartDataThree":[
+  { "value": 567, "name":"卫生" },
+  { "value": 123, "name":"电梯" },
+  { "value": 324, "name":"停车引导" },
+  { "value": 89, "name":"水电" },
+  { "value": 453, "name":"一般报修" },
+  { "value": 767, "name":"门禁" }
+
+],
+"chartDataFour":{
+  "day":["星期1","星期2","星期3","星期4","星期5","星期6","星期7"],
+  "num":{
+      "一般用户":[320, 502, 401, 334, 390, 430, 720],
+      "月租用户":[234, 564, 443, 234, 754, 430, 321],
+      "特殊车辆":[220, 321, 335, 534, 390, 330, 310]
+
+  }
+}
+}
